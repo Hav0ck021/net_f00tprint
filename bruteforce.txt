@@ -1,0 +1,9 @@
+ns1
+ns2
+ns3
+www
+ftp
+intranet
+admin
+phpmy
+microsoft
